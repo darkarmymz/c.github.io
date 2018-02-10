@@ -1,2 +1,2 @@
-# hacktheplanet.github.io
+# https://hacktheplanet.github.io
 hack_the_planet, telegram group.
